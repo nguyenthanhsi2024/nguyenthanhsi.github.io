@@ -1,0 +1,21 @@
+# Site Settings
+title: "Nguyễn Thanh Sĩ"
+name: "Nguyễn Thanh Sĩ"
+url: "https://nguyenthanhsi.github.io"
+description: "Trang web cá nhân và hồ sơ khoa học của Nguyễn Thanh Sĩ"
+
+# Author Profile (Thông tin cột bên trái)
+author:
+  name: "Nguyễn Thanh Sĩ"
+  avatar: "profile.png" # Lát nữa chúng ta sẽ thay ảnh thật của bạn vào sau
+  bio: "Nhà nghiên cứu / Giảng viên tại..." # Điền chức danh của bạn
+  location: "Việt Nam"
+  employer: "Tên trường Đại học hoặc Viện nghiên cứu"
+  uri: "https://nguyenthanhsi.github.io"
+  email: "diachi-email-cua-ban@gmail.com"
+  
+  # Nếu có các link học thuật dưới đây thì bạn điền mã/link vào, nếu không có thì cứ để trống ""
+  googlescholar: "" 
+  researchgate: ""
+  orcid: ""
+  linkedin: ""
